@@ -3,7 +3,9 @@
 **`Estudande`**
 
 Me chamo Lara Abreu, tenho 18 anos e neste momento estou cursando a área da Ciência da Computação na UniCeub de Brasília.
-Informações de contato pelo meu mail: "[Lara Abreu](laraacfreitas@gmail.com)"
+
+Informações de contato pelo meu Mail: "[Lara Mail](laraacfreitas@gmail.com)" e o Linkedin: "[Lara Linkedin](https://www.linkedin.com/in/lara-abreu-5a7545363/
+)".
 
 ---
 ### ⭐ Linguagem que estou estudando no momento
