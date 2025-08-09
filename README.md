@@ -21,7 +21,7 @@ Informações de contato pelo meu Mail: "[Lara Mail](laraacfreitas@gmail.com)" e
   align="left"
   alt="python"
   title="python"
-  width="40px"
+  width="50px"
   style="padding-right: 20px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
