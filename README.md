@@ -2,7 +2,7 @@
 
 **`Estudande`**
 
-Me chamo Lara Abreu, tenho 19 anos e neste momento estou cursando o 3 semestre de Ciência da Computação na UniCeub de Brasília :D
+Me chamo Lara Abreu, tenho 19 anos e neste momento estou cursando o 3° semestre de Ciência da Computação na UniCeub de Brasília :D
 
 Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn](https://www.linkedin.com/in/lara-abreu-5a7545363/
 ).
