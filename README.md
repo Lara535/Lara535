@@ -8,7 +8,7 @@ Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn]
 ).
 
 ---
-### ⭐ Linguagens de Tecnologia:
+### ⭐ Linguagens:
 <img
   align="left"
   alt="C"
@@ -32,4 +32,11 @@ Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn]
   width="50px"
   style="padding-right: 20px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-                
+
+  <img 
+  align="left"
+  alt="css"
+  title="css"
+  width="50px"
+  style="padding-right: 20px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />           
