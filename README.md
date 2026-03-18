@@ -49,5 +49,6 @@ Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn]
  
 <div>
   <a href="https://github.com/Lara535">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Lara535&show_icons=true&theme=radical"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Lara535&show_icons=true&theme=radical"/>  
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lara535&layout=compact&langs_Count=16&theme=radical"/>
 </div>
