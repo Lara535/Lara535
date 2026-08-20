@@ -8,7 +8,7 @@ Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn]
 ).
 
 ---
-### 👩‍💻 Linguagens familiarizadas:
+### 👩‍💻 Conhecimentos Práticos e em Evolução:
 <img
   align="left"
   alt="C"
