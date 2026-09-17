@@ -1,62 +1,53 @@
-## Oiii !! Eu sou a Lara 😸 
+# 😸 Oii, eu sou a Lara Abreu!
 
-**`Estudande`**
-
-Me chamo Lara Abreu, tenho 19 anos e neste momento estou cursando o 3° semestre de Ciência da Computação na UniCeub de Brasília. 
-
-Informações de contato pelo meu [Mail](laraacfreitas@gmail.com) e o [LinkedIn](https://www.linkedin.com/in/lara-abreu-5a7545363/
-).
+Estudante do 4º período de **Ciência da Computação** no UniCEUB em Brasília, buscando aprender mais sobre a tecnologia para aplicações Web e práticas de UX/UI design.
 
 ---
-### 👩‍💻 Conhecimentos Práticos e em Evolução:
-<img
-  align="left"
-  alt="C"
-  title="C"
-  width="40px"
-  style="padding-right: 20px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<img 
-  align="left"
-  alt="python"
-  title="python"
-  width="50px"
-  style="padding-right: 20px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-  <img 
-  align="left"
-  alt="hmtl"
-  title="html"
-  width="50px"
-  style="padding-right: 20px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-  <img 
-  align="left"
-  alt="css"
-  title="css"
-  width="50px"
-  style="padding-right: 20px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  
-  <img 
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="50px"
-  style="padding-right: 20px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      
-<br/>
-<br/>
-
+### 🎯 Sobre Mim
+- 🎓 **Educação:** Bacharelado em Ciência da Computação (UniCEUB).
+- 🎨 **Foco:** Criação de interfaces web responsivas, acessíveis e focadas em uma excelente experiência do usuário (UX/UI).
+- 🛡️ **Diferencial:** Visão estratégica de UX/UI aplicada ao Frontend, aliada a fundamentos práticos de Cibersegurança.
+- 🌐 **Idiomas:** Inglês Intermediário (leitura e interpretação de documentação técnica).
 
 ---
- 
-<div>
-  <a href="https://github.com/Lara535">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Lara535&show_icons=true&theme=radical"/>  
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lara535&layout=compact&langs_Count=16&theme=radical"/>
-</div>
+
+### 👩‍💻 Tecnologias & Ferramentas
+
+**Conhecimentos Práticos & em Evolução**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Ferramentas & Conhecimentos**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/UX/UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| **Fics On Shelf** | Solução web para organizar e gerenciar abas de navegadores de leitores assíduos. | HTML5, CSS3, JavaScript | [Repositório](#) • [Deploy](#) |
+| **Pokédex REST API** | Aplicação web responsiva com consumo de API REST e manipulação dinâmica de DOM. | HTML5, CSS3, JavaScript | [Repositório](#) |
+| **Jogo da Memória** | Jogo interativo focado na prática de lógica de programação e conceitos web. | HTML5, CSS3, JavaScript | [Repositório](#) • [Deploy](#) |
+
+---
+
+### 📜 Certificações
+- 🎨 **Certificado Profissional de UX/UI Design** — Google / CIEE
+- 💻 **Formação Frontend** — Digital Innovation One (DIO)
+- 🛡️ **Cybersecurity Essentials** — Cisco Networking Academy
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-abreu-5a7545363/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laraacfreitas@gmail.com)
