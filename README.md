@@ -34,9 +34,9 @@ Estudante do 4º período de **Ciência da Computação** no UniCEUB em Brasíli
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
-| **Fics On Shelf** | Solução web para organizar e gerenciar abas de navegadores de leitores assíduos. | HTML5, CSS3, JavaScript | [Repositório](#) • [Deploy](#) |
-| **Pokédex REST API** | Aplicação web responsiva com consumo de API REST e manipulação dinâmica de DOM. | HTML5, CSS3, JavaScript | [Repositório](#) |
-| **Jogo da Memória** | Jogo interativo focado na prática de lógica de programação e conceitos web. | HTML5, CSS3, JavaScript | [Repositório](#) • [Deploy](#) |
+| **Fics On Shelf** | Solução web para organizar e gerenciar abas de navegadores de leitores assíduos. | HTML5, CSS3, JavaScript | [Repositório](https://github.com/Lara535/Bootcamp.II-Entrega_Inicial) • [Deploy](https://lara535.github.io/Bootcamp.II-Entrega_Inicial/) |
+| **Pokédex REST API** | Aplicação web responsiva com consumo de API REST e manipulação dinâmica de DOM. | HTML5, CSS3, JavaScript | [Repositório](https://github.com/Lara535/Pokedex) • [Deploy](https://lara535.github.io/Pokedex/) |
+| **Jogo da Memória** | Jogo interativo focado na prática de lógica de programação e conceitos web. | HTML5, CSS3, JavaScript | [Repositório](https://github.com/Lara535/Jogo-da-Memoria) • [Deploy](https://lara535.github.io/Jogo-da-Memoria/) |
 
 ---
 
