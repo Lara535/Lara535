@@ -44,6 +44,7 @@ Estudante do 4º período de **Ciência da Computação** no UniCEUB em Brasíli
 - 🎨 **Certificado Profissional de UX/UI Design** — Google / CIEE
 - 💻 **Formação Frontend** — Digital Innovation One (DIO)
 - 🛡️ **Cybersecurity Essentials** — Cisco Networking Academy
+- 🛡️ **Série de Segurança Cibernética: Controles 1 a 18 do CIS Controls** — EV.G / Enap
 
 ---
 
